@@ -1,6 +1,6 @@
 # R'lyeh hacklab
 
-Sitio principal del hacklab. Publicado en https://rlab.be
+Sitio principal del hacklab. Publicado en ~~https://rlab.be~~ https://rlab.lat
 
 
 ## Cómo usar el sitio

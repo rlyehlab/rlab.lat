@@ -12,7 +12,7 @@ Los medios oficiales de comunicación son por email, telegram o twitter:
 # Email de contacto
 
 Dirección:   
-[contacto@rlab.be](mailto:contacto@rlab.be)
+[contacto@rlab.lat](mailto:contacto@rlab.lat)
 
 Llave PGP:   
 0x48B2FD5B38109A87   [rlab-llave-publica.txt](../rlab-llave-publica.txt)   
